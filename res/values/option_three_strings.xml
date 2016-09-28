@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="option3_0">*******</string>
+    <string name="option3_1">44 psi</string>
+    <string name="option3_2">16 pistions</string>
+    <string name="option3_3">Item 4</string>
+    <string name="option3_4">Item 9</string>
+    <string name="option3_5">*******</string>
+    <string name="option3_6">Indicates the side of the car you can refill your gas tank.</string>
+    <string name="option3_7">*******</string>
+    <string name="option3_8">Brake rotor</string>
+    <string name="option3_9">Item 3</string>
+    <string name="option3_10">Item 3</string>
+    <string name="option3_11">*******</string>
+
+    <string-array name="option3_list">
+        <item>@string/option3_0</item>
+        <item>@string/option3_1</item>
+        <item>@string/option3_2</item>
+        <item>@string/option3_3</item>
+        <item>@string/option3_4</item>
+        <item>@string/option3_5</item>
+        <item>@string/option3_6</item>
+        <item>@string/option3_7</item>
+        <item>@string/option3_8</item>
+        <item>@string/option3_9</item>
+        <item>@string/option3_10</item>
+        <item>@string/option3_11</item>
+    </string-array>
+
+</resources>

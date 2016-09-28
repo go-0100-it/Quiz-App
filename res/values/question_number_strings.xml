@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question_number_0">Are you Rev\'d up for the challenge?</string>
+    <string name="question_number_1">Question 1</string>
+    <string name="question_number_2">Question 2</string>
+    <string name="question_number_3">Question 3</string>
+    <string name="question_number_4">Question 4</string>
+    <string name="question_number_5">Question 5</string>
+    <string name="question_number_6">Question 6</string>
+    <string name="question_number_7">Question 7</string>
+    <string name="question_number_8">Question 8</string>
+    <string name="question_number_9">Question 9</string>
+    <string name="question_number_10">Question 10</string>
+    <string name="question_number_11">Quiz complete!</string>
+
+    <string-array name="question_number_list">
+        <item>@string/question_number_0</item>
+        <item>@string/question_number_1</item>
+        <item>@string/question_number_2</item>
+        <item>@string/question_number_3</item>
+        <item>@string/question_number_4</item>
+        <item>@string/question_number_5</item>
+        <item>@string/question_number_6</item>
+        <item>@string/question_number_7</item>
+        <item>@string/question_number_8</item>
+        <item>@string/question_number_9</item>
+        <item>@string/question_number_10</item>
+        <item>@string/question_number_11</item>
+    </string-array>
+
+</resources>

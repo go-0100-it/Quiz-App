@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="instruction0">Click begin to start quiz.</string>
+    <string name="instruction1">Please select one of the following answers.</string>
+    <string name="instruction2">Please select one of the following answers.</string>
+    <string name="instruction3">Please select a number that best represents the location.</string>
+    <string name="instruction4">Please select the numbers that best represent the items.</string>
+    <string name="instruction5">Please enter your answer below.</string>
+    <string name="instruction6">Please select one of the following answers.</string>
+    <string name="instruction7">Please enter your answer below.</string>
+    <string name="instruction8">Please select one of the following answers.</string>
+    <string name="instruction9">Please select all items that apply.</string>
+    <string name="instruction10">Please select the items below.</string>
+    <string name="instruction11">You correctly answered</string>
+    <string name="instruction12">out of 10 questions.</string>
+
+    <string-array name="instruction_list">
+        <item>@string/instruction0</item>
+        <item>@string/instruction1</item>
+        <item>@string/instruction2</item>
+        <item>@string/instruction3</item>
+        <item>@string/instruction4</item>
+        <item>@string/instruction5</item>
+        <item>@string/instruction6</item>
+        <item>@string/instruction7</item>
+        <item>@string/instruction8</item>
+        <item>@string/instruction9</item>
+        <item>@string/instruction10</item>
+        <item>@string/instruction11</item>
+        <item>@string/instruction12</item>
+    </string-array>
+
+</resources>

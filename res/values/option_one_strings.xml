@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="option1_0">*******</string>
+    <string name="option1_1">635 Kg</string>
+    <string name="option1_2">4 pistons</string>
+    <string name="option1_3">Item 1</string>
+    <string name="option1_4">Item 6</string>
+    <string name="option1_5">*******</string>
+    <string name="option1_6">It doesn\'t indicate anything, it\'s simply part of the symbol.</string>
+    <string name="option1_7">*******</string>
+    <string name="option1_8">Brake pads</string>
+    <string name="option1_9">Item 1</string>
+    <string name="option1_10">Item 1</string>
+    <string name="option1_11">*******</string>
+
+    <string-array name="option1_list">
+        <item>@string/option1_0</item>
+        <item>@string/option1_1</item>
+        <item>@string/option1_2</item>
+        <item>@string/option1_3</item>
+        <item>@string/option1_4</item>
+        <item>@string/option1_5</item>
+        <item>@string/option1_6</item>
+        <item>@string/option1_7</item>
+        <item>@string/option1_8</item>
+        <item>@string/option1_9</item>
+        <item>@string/option1_10</item>
+        <item>@string/option1_11</item>
+    </string-array>
+
+</resources>

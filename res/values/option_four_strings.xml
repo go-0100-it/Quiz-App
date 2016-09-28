@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="option4_0">*******</string>
+    <string name="option4_1">1400 lbs</string>
+    <string name="option4_2">24 pistons</string>
+    <string name="option4_3">Item 10</string>
+    <string name="option4_4">Item 10</string>
+    <string name="option4_5">*******</string>
+    <string name="option4_6">Indicates you should use high octane fuel.</string>
+    <string name="option4_7">*******</string>
+    <string name="option4_8">Caliper</string>
+    <string name="option4_9">Item 4</string>
+    <string name="option4_10">Item 4</string>
+    <string name="option4_11">*******</string>
+
+    <string-array name="option4_list">
+        <item>@string/option4_0</item>
+        <item>@string/option4_1</item>
+        <item>@string/option4_2</item>
+        <item>@string/option4_3</item>
+        <item>@string/option4_4</item>
+        <item>@string/option4_5</item>
+        <item>@string/option4_6</item>
+        <item>@string/option4_7</item>
+        <item>@string/option4_8</item>
+        <item>@string/option4_9</item>
+        <item>@string/option4_10</item>
+        <item>@string/option4_11</item>
+    </string-array>
+
+</resources>

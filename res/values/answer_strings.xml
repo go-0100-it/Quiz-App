@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="answer0">none</string>
+    <string name="answer1">44 psi</string>
+    <string name="answer2">8 pistons</string>
+    <string name="answer3">Item 4</string>
+    <string name="answer4">Item 8Item 9</string>
+    <string name="answer5">brake rotor</string>
+    <string name="answer6">Indicates the side of the car you can refill your gas tank.</string>
+    <string name="answer7">alternator</string>
+    <string name="answer8">Brake pads</string>
+    <string name="answer9">Item 1Item 2Item 4</string>
+    <string name="answer10">Item 2Item 4</string>
+    <string name="answer11">none</string>
+
+    <string-array name="answer_list">
+        <item>@string/answer0</item>
+        <item>@string/answer1</item>
+        <item>@string/answer2</item>
+        <item>@string/answer3</item>
+        <item>@string/answer4</item>
+        <item>@string/answer5</item>
+        <item>@string/answer6</item>
+        <item>@string/answer7</item>
+        <item>@string/answer8</item>
+        <item>@string/answer9</item>
+        <item>@string/answer10</item>
+        <item>@string/answer11</item>
+    </string-array>
+
+</resources>

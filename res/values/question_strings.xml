@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question0">How much do you know about the car you drive?  Test your car knowledge by taking our car knowledge quiz.</string>
+    <string name="question1">Looking at the above picture, what would be the maximum air pressure for inflation of this tire?</string>
+    <string name="question2">How many pistons does a 8 cylinder engine have?</string>
+    <string name="question3">Looking at the under the hood picture above, where would I check the oil level of this engine?</string>
+    <string name="question4">Choose two items that I should look at if I am having electrical problems?</string>
+    <string name="question5">What is the name for the item pictured above?</string>
+    <string name="question6">What does the small sideways triangle(circled above in red) indicate?</string>
+    <string name="question7">What is the name for the item pictured above?</string>
+    <string name="question8">Of the 4 items listed below, in a normally functioning braking system, what is the first part to wear?</string>
+    <string name="question9">Which of the items pictured above are apart of an automotive exhaust system?</string>
+    <string name="question10">Which 2 items pictured above would it be considered routine maintenance to replace them?</string>
+    <string name="question11">Congratulations, you have reached the finish line!!</string>
+
+    <string-array name="question_list">
+        <item>@string/question0</item>
+        <item>@string/question1</item>
+        <item>@string/question2</item>
+        <item>@string/question3</item>
+        <item>@string/question4</item>
+        <item>@string/question5</item>
+        <item>@string/question6</item>
+        <item>@string/question7</item>
+        <item>@string/question8</item>
+        <item>@string/question9</item>
+        <item>@string/question10</item>
+        <item>@string/question11</item>
+    </string-array>
+</resources>

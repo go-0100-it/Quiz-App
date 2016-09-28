@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="option2_0">*******</string>
+    <string name="option2_1">92H</string>
+    <string name="option2_2">8 pistons</string>
+    <string name="option2_3">Item 2</string>
+    <string name="option2_4">Item 8</string>
+    <string name="option2_5">*******</string>
+    <string name="option2_6">Indicates the location of the gas tank.</string>
+    <string name="option2_7">*******</string>
+    <string name="option2_8">Caliper piston</string>
+    <string name="option2_9">Item 2</string>
+    <string name="option2_10">Item 2</string>
+    <string name="option2_11">*******</string>
+
+    <string-array name="option2_list">
+        <item>@string/option2_0</item>
+        <item>@string/option2_1</item>
+        <item>@string/option2_2</item>
+        <item>@string/option2_3</item>
+        <item>@string/option2_4</item>
+        <item>@string/option2_5</item>
+        <item>@string/option2_6</item>
+        <item>@string/option2_7</item>
+        <item>@string/option2_8</item>
+        <item>@string/option2_9</item>
+        <item>@string/option2_10</item>
+        <item>@string/option2_11</item>
+    </string-array>
+
+</resources>
